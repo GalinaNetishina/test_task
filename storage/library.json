@@ -1,55 +1,55 @@
 [
     {
-        "id": "4374",
+        "id": "1636",
         "title": "any",
         "author": "somebody",
         "year": 2000,
-        "status": "В наличии"
+        "status": "Выдана"
     },
     {
-        "id": "9248",
+        "id": "0422",
         "title": "some",
         "author": "nobody",
         "year": 2010,
         "status": "В наличии"
     },
     {
-        "id": "6083",
+        "id": "6912",
         "title": "some",
         "author": "nobody",
         "year": 2010,
         "status": "В наличии"
     },
     {
-        "id": "9743",
+        "id": "5898",
         "title": "some",
         "author": "nobody",
         "year": 2010,
         "status": "В наличии"
     },
     {
-        "id": "6397",
+        "id": "3225",
         "title": "some",
         "author": "nobody",
         "year": 2010,
         "status": "Выдана"
     },
     {
-        "id": "3782",
+        "id": "0696",
         "title": "some",
         "author": "nobody",
         "year": 2010,
         "status": "В наличии"
     },
     {
-        "id": "7674",
+        "id": "8449",
         "title": "some",
         "author": "nobody",
         "year": 2010,
         "status": "Выдана"
     },
     {
-        "id": "9890",
+        "id": "9672",
         "title": "new",
         "author": "someone",
         "year": 2020,
