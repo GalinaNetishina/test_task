@@ -20,6 +20,9 @@ class TestBookInnerMethod(unittest.TestCase):
 
 class TestBookClass(unittest.TestCase):
     def init_correct(self):
+        test_books = ['book1, author1, 2020', 'book2, author2, 2021', 'book3, author2, 2022']
+        for book_data in test_books:
+            self.assertDictEqual(Book(*book_data.split(', ')).todict(), {'title': book_data[0], 'author': book_data[1], 'year': book_data[2]})
 
 
 if __name__ == '__main__':
